@@ -10,7 +10,7 @@ As a service to the research community, we are making available the stata and R 
 
 We currently provide code to read restricted-access natality data into stata and R for years 2015 to 2019. We will keep expanding this resource, adding natality data for prior and more current years. 
 
-Please note that these files might include typos and errors. If you use them and find errors, please contact Hye Jee Kim (hyejk@stanford.edy).
+Please note that these files might include typos and errors. If you use them and find errors, please contact Hye Jee Kim (hyejk@stanford.edu).
 
 We acknowledge funding from the Russell Sage Foundation.
 
