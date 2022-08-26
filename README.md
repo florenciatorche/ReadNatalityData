@@ -1,5 +1,3 @@
-# ReadNatalityData
-
 In the United States, State laws require birth certificates to be completed for all births, and Federal law mandates national collection and publication of births and other vital statistics data. The National Vital Statistics System, the Federal compilation of this data, is the result of the cooperation between the National Center for Health Statistics (NCHS) and the states to provide access to statistical information from birth certificates.
 
 The National Center for Health Statistics makes annual natality micro-data datasets including all births occurring in a given calendar year within the United States [publicly available](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm). The data are based on information abstracted from birth certificates filed in vital statistics offices of each State and District of Columbia. 
@@ -17,6 +15,7 @@ Please note that these files might include typos and errors. If you use them and
 We acknowledge funding from the Russell Sage Foundation.
 
 --------
+
 | Stata do files | R scripts |
 | -------------- | -------------- |
 | 2015 | 2015 |
