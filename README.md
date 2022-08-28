@@ -12,7 +12,7 @@ We currently provide code to read restricted-access natality data into stata and
 
 Please note that these files might include typos and errors. If you use them and find errors, please contact Hye Jee Kim (hyejk@stanford.edu).
 
-We acknowledge funding from the Russell Sage Foundation. Website created by [Amy Johnson](johnsonamy.com).
+We acknowledge funding from the Russell Sage Foundation. Website created by Amy Johnson.
 
 --------
 
