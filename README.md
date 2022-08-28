@@ -19,3 +19,7 @@ We acknowledge funding from the Russell Sage Foundation. Website created by [Amy
 | Stata do files | R scripts |
 | -------------- | -------------- |
 | [2015](StataDoFiles/RestrictedVitalStatistics_Natality_2015.do) | [2015](RScripts/RestrictedVitalStatistics_Natality_2015.R) |
+| [2016](StataDoFiles/RestrictedVitalStatistics_Natality_2016.do) | [2016](RScripts/RestrictedVitalStatistics_Natality_2016.R) |
+| [2017](StataDoFiles/RestrictedVitalStatistics_Natality_2017.do) | [2017](RScripts/RestrictedVitalStatistics_Natality_2017.R) |
+| [2018](StataDoFiles/RestrictedVitalStatistics_Natality_2018.do) | [2018](RScripts/RestrictedVitalStatistics_Natality_2018.R) |
+| [2019](StataDoFiles/RestrictedVitalStatistics_Natality_2019.do) | [2019](RScripts/RestrictedVitalStatistics_Natality_2019.R) |
