@@ -1,5 +1,4 @@
-## Florencia Torche
-## Stanford University
+### Florencia Torche, Stanford University
 
 In the United States, State laws require birth certificates to be completed for all births, and Federal law mandates national collection and publication of births and other vital statistics data. The National Vital Statistics System, the Federal compilation of this data, is the result of the cooperation between the National Center for Health Statistics (NCHS) and the states to provide access to statistical information from birth certificates.
 
@@ -29,9 +28,9 @@ Kim, Hye Jee and Florencia Torche. 2022 “Code for Reading Restricted Access Na
 
 | Stata do files | R scripts |
 | -------------- | -------------- |
-| [2010](StataDoFiles/RestrictedVitalStatistics_Natality_2010.do) | [2015](RScripts/RestrictedVitalStatistics_Natality_2010.R) |
-| [2011](StataDoFiles/RestrictedVitalStatistics_Natality_2011.do) | [2015](RScripts/RestrictedVitalStatistics_Natality_2011.R) |
-| [2012](StataDoFiles/RestrictedVitalStatistics_Natality_2012.do) | [2015](RScripts/RestrictedVitalStatistics_Natality_2012.R) |
+| [2010](StataDoFiles/RestrictedVitalStatistics_Natality_2010.do) | [2010](RScripts/RestrictedVitalStatistics_Natality_2010.R) |
+| [2011](StataDoFiles/RestrictedVitalStatistics_Natality_2011.do) | [2011](RScripts/RestrictedVitalStatistics_Natality_2011.R) |
+| [2012](StataDoFiles/RestrictedVitalStatistics_Natality_2012.do) | [2012](RScripts/RestrictedVitalStatistics_Natality_2012.R) |
 | [2013](StataDoFiles/RestrictedVitalStatistics_Natality_2013.do) | [2013](RScripts/RestrictedVitalStatistics_Natality_2013.R) |
 | [2014](StataDoFiles/RestrictedVitalStatistics_Natality_2014.do) | [2015](RScripts/RestrictedVitalStatistics_Natality_2014.R) |
 | [2015](StataDoFiles/RestrictedVitalStatistics_Natality_2015.do) | [2015](RScripts/RestrictedVitalStatistics_Natality_2015.R) |
