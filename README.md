@@ -1,4 +1,5 @@
-### Florencia Torche, Stanford University
+### Florencia Torche
+### Stanford University
 
 In the United States, State laws require birth certificates to be completed for all births, and Federal law mandates national collection and publication of births and other vital statistics data. The National Vital Statistics System, the Federal compilation of this data, is the result of the cooperation between the National Center for Health Statistics (NCHS) and the states to provide access to statistical information from birth certificates.
 
