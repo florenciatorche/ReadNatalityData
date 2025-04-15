@@ -8,7 +8,7 @@ Restricted-access annual natality datasets with state, county and geography info
 
 As a service to the research community, we are making available the Stata and R code to read restricted-access datasets with state, county, and geographic information. This code is similar to the code used for public-access natality data provided by the [NBER natality data](https://www.nber.org/research/data/vital-statistics-birth-data-nber), but it includes variables capturing state, county and geography. It also includes value labels for all variables. 
 
-We currently provide code to read restricted-access natality data into stata and R for years 2010 to 2023. We will keep expanding this resource, adding natality data for prior and more current years. Please note that these files might include typos and errors. If you use them and find errors, please contact Sarah Galbenski (sarah.galbenski@princeton.edu).
+We currently provide code to read restricted-access natality data into Stata and R for years 2010 to 2023. We will keep expanding this resource, adding natality data for prior and more current years. Please note that these files might include typos and errors. If you use them and find errors, please contact Sarah Galbenski (sarah.galbenski@princeton.edu).
 
 We acknowledge funding from the Russell Sage Foundation. Website created by Amy Johnson, updated by Sarah Galbenski. 
 
