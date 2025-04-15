@@ -15,10 +15,10 @@ We acknowledge funding from the Russell Sage Foundation. Website created by Amy 
 Suggested citation:
  
 Stata files:
-> Galbenski, Sarah, Hye Jee Kim, and Florencia Torche. 2025 “Code for Reading Restricted Access Natality Data into Stata and Assigning Variable and Value Labels, Year(s) [XXXX-YYYY]” Princeton University, Office of Population Research. https://florenciatorche.github.io/ReadNatalityData/ 
+> Galbenski, Sarah, Hye Jee Kim, and Florencia Torche. 2025. “Code for Reading Restricted Access Natality Data into Stata and Assigning Variable and Value Labels, Year(s) [XXXX-YYYY]”, Princeton University, Office of Population Research. https://florenciatorche.github.io/ReadNatalityData/ 
  
 R files: 
-> Galbenski, Sarah, Hye Jee Kim, and Florencia Torche. 2025 “Code for Reading Restricted Access Natality Data into R and Assigning Variable and Value Labels, Year(s) [XXXX-YYYY]” Princeton University, Office of Population Research. https://florenciatorche.github.io/ReadNatalityData/ 
+> Galbenski, Sarah, Hye Jee Kim, and Florencia Torche. 2025. “Code for Reading Restricted Access Natality Data into R and Assigning Variable and Value Labels, Year(s) [XXXX-YYYY]”, Princeton University, Office of Population Research. https://florenciatorche.github.io/ReadNatalityData/ 
 
 
 --------
