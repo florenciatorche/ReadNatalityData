@@ -35,4 +35,6 @@ R files:
 | [2017](StataDoFiles/RestrictedVitalStatistics_Natality_2017.do) | [2017](RScripts/RestrictedVitalStatistics_Natality_2017.R) |
 | [2018](StataDoFiles/RestrictedVitalStatistics_Natality_2018.do) | [2018](RScripts/RestrictedVitalStatistics_Natality_2018.R) |
 | [2019](StataDoFiles/RestrictedVitalStatistics_Natality_2019.do) | [2019](RScripts/RestrictedVitalStatistics_Natality_2019.R) |
-| [2020](StataDoFiles/RestrictedVitalStatistics_Natality_2020do)  | [2020](RScripts/RestrictedVitalStatistics_Natality_2020.R) |
+| [2020](StataDoFiles/RestrictedVitalStatistics_Natality_2020.do) | [2020](RScripts/RestrictedVitalStatistics_Natality_2020.R) |
+| [2021](StataDoFiles/RestrictedVitalStatistics_Natality_2021.do) | [2021](RScripts/RestrictedVitalStatistics_Natality_2021.R) |
+
