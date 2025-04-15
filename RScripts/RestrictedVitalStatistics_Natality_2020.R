@@ -11,7 +11,7 @@ library(dplyr)
 # -----------------------------------------------; 
 # This program reads the 2020 Restricted-Use  
 # NCHS Natality Data File 
-# by Sarah Galbenski, sg5738@princeton.edu, DATE 
+# by Sarah Galbenski, sarah.galbenski@princeton.edu, 04/15/2025
 # Please report errors to the email address above. 
 # -----------------------------------------------;
 
